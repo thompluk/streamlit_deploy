@@ -35,7 +35,7 @@ import json
 # ========================= ====================================================
 st.set_page_config(page_title="Credit Risk Prediction", page_icon="💳", layout="wide")
 
-DATA_PATH = "data/cleaned_data.csv"      # data referensi (opsi widget, background interpretasi)
+DATA_PATH = "cleaned_data.csv"      # data referensi (opsi widget, background interpretasi)
 MODEL_PATH = "model_rf_v2.sav"          # lokasi model final nanti
 TARGET_COL = "TARGET"
 ID_COL = "ID"
