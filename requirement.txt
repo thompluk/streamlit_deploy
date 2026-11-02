@@ -5,3 +5,4 @@ imblearn==0.14.2
 category_encoders==2.11.1
 uvicorn==0.54.0
 streamlit==1.66.1
+plotly==7.1.0
